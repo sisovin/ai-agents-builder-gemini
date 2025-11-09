@@ -1,0 +1,5 @@
+{
+  "name": "AI Agents Builder Platform",
+  "description": "A platform to build and manage Gemini-powered AI agents for productivity and onboarding, featuring real-time conversation streaming and a library of embedded prompts.",
+  "requestFramePermissions": []
+}
